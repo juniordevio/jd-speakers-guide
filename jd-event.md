@@ -66,7 +66,7 @@ A photo of you so we can create a Canva banner
 # Social Media
 We love Social Media! But we understand that not everybody does. If you don’t want to feature on our Social Media please advise us before the event.
 
-Our Twitter Handle is @JuniorDev_io and we love getting tagged in tweets!
+Our Twitter Handle is [@JuniorDev_io](https://twitter.com/juniordev_io) and we love getting tagged in tweets!
 
 It’s good to let people know you are speaking, there’s nothing wrong with being proud of your achievement, so shout from the rooftops if you want!
 
